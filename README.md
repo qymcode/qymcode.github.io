@@ -10,8 +10,8 @@
 + MySql
 + Windows Terminal【 微软精品】
 + Office Tool 
-+ Office 专业增强版 2021 Gith:ttps://github.com/dylanbai8/kmspro/issues/4 
-+ Navicat Premium 15版本 Git:https://github.com/gitccl/Navicat-key
++ Office 专业增强版 2021 Git: https://github.com/dylanbai8/kmspro/issues/4 
++ Navicat Premium 15版本 Git: https://github.com/gitccl/Navicat-key
 + Motrix【 下载神器】
 + Microsoft Edge【微软精品】
 + Google Chrome Canary
